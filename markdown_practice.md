@@ -1,4 +1,4 @@
-# Markdown 练习
+# Markdown练习
 ## 标题有6级
 ### 几个井号即几级标题
 #### 每个操作后面必须有空格
@@ -52,5 +52,10 @@ $$ \frac{\partial f}{\partial x} = 2\sqrt{a}x $$
 
 ### 引用链接
 [Lattice][id],[Lattice][id],
+
 [Lattice][id],[Lattice][id]
-[id]:
+
+[id]:https://github.com/MyJoyfulLove/Lattice-Based-QIM "通过修改id，即可修改所有链接"
+
+### 跳转
+回到[标题](#Markdown练习)
