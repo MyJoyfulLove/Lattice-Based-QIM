@@ -49,3 +49,8 @@ $$ \frac{\partial f}{\partial x} = 2\sqrt{a}x $$
 
 ### 链接
 [Markdown练习](https://github.com/MyJoyfulLove/Lattice-Based-QIM/edit/main/markdown_practice.md "鼠标放上去有说明")
+
+### 引用链接
+[Lattice][id],[Lattice][id],
+[Lattice][id],[Lattice][id]
+[id]:
