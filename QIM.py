@@ -1,5 +1,5 @@
 import numpy as np
-from TheSDCVP import SDCVP
+from SDCVP import SDCVP
 import Create_Data
 import math
 
